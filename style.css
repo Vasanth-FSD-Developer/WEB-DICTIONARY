@@ -7,7 +7,7 @@
     font-family: "Poppins", sans-serif;
 }
 body {
-    background-color: #ae9cff;
+    background-image: url("https://media.istockphoto.com/id/594484448/vector/books-sketch-seamless.jpg?s=612x612&w=0&k=20&c=DACpDBVkXYVwafxvixLdFERAbVJMF94SyZO9gJ0FcU4=");
 }
 .container {
     background-color: #ffffff;
@@ -41,6 +41,9 @@ body {
     outline: none;
     color: #ffffff;
     border-radius: 5px;
+}
+.search-box button:hover{
+    background-color: rgb(45, 181, 45);
 }
 .result {
     position: relative;
